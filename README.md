@@ -1,5 +1,4 @@
-# 🇮🇩 Analisis Sentimen Berita Ekonomi Indonesia Menggunakan IndoBERT
-
+# Analisis Pergeseran Sentimen Pemberitaan Media Nasional Di Bidang Ekonomi Terhadap Kinerja Pemerintahan Presiden Prabowo Pada Satu Tahun Pertama Menggunakan Indobert Dengan Fine-Tuning 
 Project ini bertujuan untuk melakukan analisis sentimen terhadap kumpulan berita ekonomi nasional Indonesia. Prosesnya meliputi pembersihan data, pelabelan berbasis leksikon sederhana, ekstraksi fitur klasik, hingga fine-tuning model **IndoBERT** untuk klasifikasi sentimen (**Positif**, **Netral**, **Negatif**).
 
 ---
